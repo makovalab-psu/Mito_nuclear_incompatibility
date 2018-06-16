@@ -1,0 +1,26 @@
+PLINK v1.90b3.44 64-bit (17 Nov 2016)
+Options in effect:
+  --bfile 1kg_nam_flipped
+  --extract 1kg_nam_flipped_pruned.prune.in
+  --make-bed
+  --out 1kg_nam_flipped_pruned
+
+Hostname: scofield
+Working directory: /nfs/brubeck.bx.psu.edu/scratch3/arslan/mtnuc_project/lanc/1000g_vcf/1kg_nam_merged_files
+Start time: Fri Jan  5 11:47:16 2018
+
+Random number seed: 1515170836
+32303 MB RAM detected; reserving 16151 MB for main workspace.
+691435 variants loaded from .bim file.
+799 people (0 males, 0 females, 799 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to 1kg_nam_flipped_pruned.nosex .
+--extract: 88442 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 799 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+88442 variants and 799 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to 1kg_nam_flipped_pruned.bed + 1kg_nam_flipped_pruned.bim +
+1kg_nam_flipped_pruned.fam ... done.
+
+End time: Fri Jan  5 11:47:17 2018

@@ -1,0 +1,32 @@
+PLINK v1.90b3.44 64-bit (17 Nov 2016)
+Options in effect:
+  --extract Americans_1kg_namsnps_X_pruned.prune.in
+  --file Americans_1kg_namsnps_X.recode
+  --make-bed
+  --out Americans_1kg_namsnps_X_pruned
+
+Hostname: desmond
+Working directory: /nfs/brubeck.bx.psu.edu/scratch3/arslan/mtnuc_project/lanc/1000g_vcf/chrX
+Start time: Mon Feb 26 16:36:23 2018
+
+Random number seed: 1519680983
+16080 MB RAM detected; reserving 8040 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (27122 variants, 711 people).
+--file: Americans_1kg_namsnps_X_pruned-temporary.bed +
+Americans_1kg_namsnps_X_pruned-temporary.bim +
+Americans_1kg_namsnps_X_pruned-temporary.fam written.
+27122 variants loaded from .bim file.
+711 people (0 males, 0 females, 711 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to Americans_1kg_namsnps_X_pruned.nosex .
+--extract: 7026 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 711 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+7026 variants and 711 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to Americans_1kg_namsnps_X_pruned.bed +
+Americans_1kg_namsnps_X_pruned.bim + Americans_1kg_namsnps_X_pruned.fam ...
+done.
+
+End time: Mon Feb 26 16:36:25 2018
