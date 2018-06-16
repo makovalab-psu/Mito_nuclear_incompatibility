@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf ALL.chrMT.phase3_callmom-v0_4.20130502.genotypes.vcf.gz
+	--keep ../lanc/1000g_vcf/Americans_1kg_11072017.txt
+	--out analysisv2_03082018/Americans_1kg_MT.03052018.haplo
+	--recode
+
+Using zlib version: 1.2.8
+Keeping individuals in 'keep' list
+After filtering, kept 721 out of 2534 Individuals
+Outputting VCF file...
+After filtering, kept 3892 out of a possible 3892 Sites
+Run Time = 7.00 seconds
